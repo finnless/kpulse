@@ -73,6 +73,8 @@ GDELT appears to be prominent
 [North Korea](https://wiki.archiveteam.org/index.php/North_Korea)
 [Governments/North Korea](https://wiki.archiveteam.org/index.php/ArchiveBot/Governments/North_Korea)
 
+Could set up Archive Team project following [this guide](https://wiki.archiveteam.org/index.php/Dev).
+
 
 
 ## DNS Leak
@@ -88,9 +90,15 @@ Wayback SPN appears broken for kcna.kp and others.
 [Example SPN2 not working](https://web.archive.org/save/http://kcna.kp/kp/article/q/abad1068ad4bd5dbd396e909231d648b.kcmsf)
 [Crashes SPN for rodong.rep.kp](https://web.archive.org/save/http://www.rodong.rep.kp/ko/index.php?MTJAMjAyMi0xMS0yMS1OMDA3QDNAMUBAMEA1==#)
 
+The same example website from the link above about SPN2 not working now appears to be displayed on Wayback and is working mostly. [Link](https://web.archive.org/web/20230304105257/http%3A%2F%2Fkcna.kp%2Fkp%2Farticle%2Fq%2Fabad1068ad4bd5dbd396e909231d648b.kcmsf) Perhaps it takes SPN a few days to show up on Wayback.
+
+Some of the images are not being saved properly. Showing 403 access denied for some, but I can access from my browser. One example case of this strange behavior is with [this photo that was captured](https://web.archive.org/web/20230304105523/http://kcna.kp/siteFiles/photo/202302/PIC0072367.jpg), but failed 403 [a few days later here](https://web.archive.org/web/20230308070207/http://kcna.kp/siteFiles/photo/202302/PIC0072367.jpg).
 
 User Agent probably doesn't matter. Most of these sites appear to have extreme rate limiting.
 
+
+
+I'm also able to capture well using Webrecorder's [ArchiveWeb Extension](https://archiveweb.page/)
 
 ## How to connect and other resources
 
