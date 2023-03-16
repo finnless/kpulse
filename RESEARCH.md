@@ -15,6 +15,7 @@
 [Brozzler](https://github.com/internetarchive/brozzler)
 
 [WebRecorder Tools](https://webrecorder.net/tools)
+[pywb warc tool](https://github.com/webrecorder/pywb)
 
 
 [WebRecorder / Brozzer Speedruns](https://ws-dl.blogspot.com/2022/03/2022-03-02-web-archiving-speedruns.html)
@@ -22,7 +23,7 @@
 
 
 ## Wayback Machine
-
+[www.kcna.kp Wayback Sitemap](https://web.archive.org/web/sitemap/www.kcna.kp)
 
 [New Save Page Now](http://blog.archive.org/2019/10/23/the-wayback-machines-save-page-now-is-new-and-improved/)
 Uses Brozzler
@@ -38,6 +39,8 @@ Uses Brozzler
 
 
 [Unofficial Wayback Save API](https://github.com/akamhy/waybackpy)
+[Unofficial Wabback Save Gem](https://github.com/buren/wayback_archiver)
+
 
 
 ## Mark Graham
@@ -69,7 +72,11 @@ GDELT appears to be prominent
 
 ## Archive Team
 
+### Archive Bot
 [ArchiveBot](https://wiki.archiveteam.org/index.php/ArchiveBot)
+
+[Archive Bot Job 8veu3](https://archive.fart.website/archivebot/viewer/job/8veu3)
+
 [North Korea](https://wiki.archiveteam.org/index.php/North_Korea)
 [Governments/North Korea](https://wiki.archiveteam.org/index.php/ArchiveBot/Governments/North_Korea)
 
